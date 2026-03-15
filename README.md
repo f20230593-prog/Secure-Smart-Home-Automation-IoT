@@ -134,31 +134,6 @@ The system demonstrated:
 * **Telemedicine integration**
 * Wearable upgrades with **SpO₂ and ECG monitoring** 
 
-# Repository Structure
-
-smart-home-automation/
-│
-├── hardware/
-│   ├── circuit-diagrams
-│   ├── sensor-modules
-│
-├── firmware/
-│   ├── nodemcu-code
-│   ├── esp32-wearable
-│
-├── computer-vision/
-│   ├── face-recognition
-│   ├── training-model
-│
-├── dashboard/
-│   ├── web-interface
-│
-├── docs/
-│   ├── research-paper
-│
-└── README.md
-
-
 # Applications
 
 * Smart homes
